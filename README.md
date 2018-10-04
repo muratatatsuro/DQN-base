@@ -1,0 +1,6 @@
+# DQN-base
+DQNのベースとなるコードを書きました。
+変数が状態になるバージョンでは多層ニューラルネットワークを
+学習空間が描画できる(breakout,cartpole,etc）はCNNを用いて行う設計になっています
+今後これをもとにDDQN,Prioritized Experience Replay,A2C,A3C,Dueling Network
+出来れば分散強化学習のコードをここにあげていきたいです
